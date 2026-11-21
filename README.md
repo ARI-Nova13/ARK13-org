@@ -1,54 +1,78 @@
 # Hi, I'm Alireza 👋
 
-### Python Backend Developer | Dart & Flutter Developer | Aspiring Full-Stack Developer
+### Python Backend Developer | Flutter Developer | Aspiring Full-Stack Developer
 
-I'm a developer focused on building applications across both **frontend and backend**.
+I build applications with **Python, FastAPI, Dart, and Flutter**, focusing on connecting modern mobile interfaces with reliable backend services.
 
-I started my development journey with **Dart and Flutter**, building my foundation in frontend and cross-platform application development. I've since expanded into **Python and FastAPI** to develop my backend skills, including REST APIs, databases, authentication, and server-side development.
+I enjoy developing complete applications, designing REST APIs, working with databases, and integrating frontend and backend systems.
 
-I'm currently revisiting **Dart & Flutter** while continuing to strengthen my Python backend skills, with the goal of becoming a **full-stack developer** who can build applications from the frontend all the way to the backend.
+## 🛠️ Tech Stack
 
-## 🛠️ Technologies
+**Backend**
+- Python
+- FastAPI
+- SQLAlchemy
+- Pydantic
+- REST APIs
+- JWT Authentication
 
-### Backend
+**Frontend**
+- Dart
+- Flutter
 
-* Python
-* FastAPI
-* SQLAlchemy
-* Pydantic
-* REST APIs
+**Databases**
+- SQLite
+- PostgreSQL
 
-### Frontend
+**Tools**
+- Git & GitHub
+- VS Code
+- Android Studio
+- Postman
 
-* Dart
-* Flutter
+## 🚀 Featured Projects
 
-### Database
+### 🌿 GreenAura — Plant Shop
+A full-stack plant e-commerce application with a Flutter frontend and FastAPI backend.
 
-* PostgreSQL
-* SQLite
+- Flutter
+- FastAPI
+- SQLAlchemy
+- SQLite
+- REST API integration
 
-### Tools & Currently Learning
+Frontend: https://github.com/ARK13-org/Greenaura-Plant-Shop  
+Backend: https://github.com/ARK13-org/Greenaura-Plant-Shop-Api
 
-* Git & GitHub
-* Docker
-* Pytest
-* Alembic
+### 📸 Instagram API
+An Instagram-style REST API supporting users, posts, and comments.
 
-## 🚀 What I'm Working On
+- FastAPI
+- SQLAlchemy
+- JWT Authentication
+- SQLite
 
-* Building backend applications with Python and FastAPI
-* Improving my database and API development skills
-* Revisiting Dart & Flutter
-* Building projects that combine Flutter frontends with Python backends
-* Working toward becoming a full-stack developer
+https://github.com/ARK13-org/FastAPI-Instagram-API
 
-## 📚 Current Goal
+### 🏥 Clinic Appointment Booking API
+A RESTful backend for managing doctors, patients, availability, and appointments.
 
-My current focus is bringing my **Flutter frontend experience** and **Python backend skills** together to build complete, production-oriented applications.
+- FastAPI
+- SQLAlchemy
+- SQLite
+- JWT Authentication
+- Role-based authorization
 
----
+https://github.com/ARK13-org/Clinic-Appointment-Booking-API
 
-📫 **Let's connect and build something.**
-instagram : @the.appwizard
-emails : alirezakp.24@gmail.com & theappwizard.01@gmail.com
+## 🎯 Current Focus
+
+- Building complete Flutter and FastAPI applications
+- Improving backend architecture and database design
+- Writing maintainable and reusable code
+- Expanding my full-stack development experience
+
+## 📫 Connect With Me
+
+- Instagram: [@the.appwizard](https://instagram.com/the.appwizard)
+
