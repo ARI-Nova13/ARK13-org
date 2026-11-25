@@ -1,78 +1,153 @@
 # Hi, I'm Alireza 👋
 
-### Python Backend Developer | Flutter Developer | Aspiring Full-Stack Developer
+### Python Backend Developer | Flutter Developer | Full-Stack Developer
 
-I build applications with **Python, FastAPI, Dart, and Flutter**, focusing on connecting modern mobile interfaces with reliable backend services.
+I build full-stack applications using **Python, FastAPI, Dart, and Flutter**, combining modern mobile interfaces with reliable backend architectures.
 
-I enjoy developing complete applications, designing REST APIs, working with databases, and integrating frontend and backend systems.
+I enjoy developing complete applications, from frontend design and backend architecture to database management, REST API development, authentication, and frontend-backend integration.
+
+I focus on writing clean, maintainable code and building practical applications that solve real-world problems.
+
+---
 
 ## 🛠️ Tech Stack
 
-**Backend**
+**Backend Development**
 - Python
 - FastAPI
 - SQLAlchemy
 - Pydantic
-- REST APIs
+- RESTful API Design
 - JWT Authentication
+- OAuth2
+- Role-Based Authorization
 
-**Frontend**
+**Frontend Development**
 - Dart
 - Flutter
+- Material Design
+- Responsive UI Development
+- REST API Integration
 
 **Databases**
 - SQLite
 - PostgreSQL
 
-**Tools**
+**Tools & Development**
 - Git & GitHub
 - VS Code
 - Android Studio
 - Postman
 
+---
+
 ## 🚀 Featured Projects
 
-### 🌿 GreenAura — Plant Shop
-A full-stack plant e-commerce application with a Flutter frontend and FastAPI backend.
+### 🌿 GreenAura — Plant E-commerce App
 
-- Flutter
-- FastAPI
-- SQLAlchemy
-- SQLite
-- REST API integration
+A full-stack plant shopping application built with Flutter and FastAPI.
 
-Frontend: https://github.com/ARK13-org/Greenaura-Plant-Shop  
-Backend: https://github.com/ARK13-org/Greenaura-Plant-Shop-Api
+**Features**
+- Plant catalogue and category filtering
+- Search and plant details
+- User registration and authentication
+- Favorites and user profiles
+- Backend integration and database management
 
-### 📸 Instagram API
-An Instagram-style REST API supporting users, posts, and comments.
+**Technologies:** Flutter, Dart, Python, FastAPI, SQLAlchemy, SQLite
 
-- FastAPI
-- SQLAlchemy
-- JWT Authentication
-- SQLite
+**Repositories:**
+- [Flutter Frontend](https://github.com/ARK13-org/Greenaura-Plant-Shop)
+- [FastAPI Backend](https://github.com/ARK13-org/Greenaura-Plant-Shop-Api)
 
-https://github.com/ARK13-org/FastAPI-Instagram-API
+---
 
-### 🏥 Clinic Appointment Booking API
-A RESTful backend for managing doctors, patients, availability, and appointments.
+### 🏋️ BMI Calculator — Health & Fitness App
 
-- FastAPI
-- SQLAlchemy
-- SQLite
-- JWT Authentication
-- Role-based authorization
+A full-stack BMI calculator application with a modern Flutter interface and FastAPI backend.
 
-https://github.com/ARK13-org/Clinic-Appointment-Booking-API
+**Features**
+- BMI calculation and health categorization
+- BMI history and result comparison
+- User profiles
+- Dashboard and charts
+- Backend integration and data management
 
-## 🎯 Current Focus
+**Technologies:** Flutter, Dart, Python, FastAPI, SQLAlchemy
 
-- Building complete Flutter and FastAPI applications
-- Improving backend architecture and database design
-- Writing maintainable and reusable code
-- Expanding my full-stack development experience
+**Repositories:**
+- [Flutter Frontend](https://github.com/ARK13-org/Flutter-Bmi-Calculator)
+- [FastAPI Backend](https://github.com/ARK13-org/BMI-Calculator-API)
+
+---
+
+### 📸 Instagram-like Social Media Application
+
+A full-stack social media application featuring a Flutter frontend and FastAPI backend.
+
+**Features**
+- User authentication
+- Create, edit, and delete posts
+- Post feed and management
+- Comments and user functionality
+- Image uploads
+
+**Technologies:** Flutter, Dart, Python, FastAPI, SQLAlchemy, JWT, SQLite
+
+**Repositories:**
+- [Flutter Frontend](https://github.com/ARK13-org/Instagram-Flutter-App)
+- [FastAPI Backend](https://github.com/ARK13-org/FastAPI-Instagram-API)
+
+---
+
+### 🏥 MediCare — Clinic Appointment Booking System
+
+A full-stack healthcare application for managing clinic operations, doctors, patients, and appointments.
+
+**Features**
+- Patient, doctor, and admin panels
+- Doctor management
+- Appointment booking and management
+- Doctor availability scheduling
+- Role-based authentication and authorization
+- Profile management
+- Frontend and backend integration
+
+**Technologies:** Flutter, Dart, Python, FastAPI, SQLAlchemy, SQLite, JWT
+
+**Repositories:**
+- [Flutter Frontend](https://github.com/ARK13-org/Clinic-Appointment-Booking-Frontend)
+- [FastAPI Backend](https://github.com/ARK13-org/Clinic-Appointment-Booking-API)
+
+---
+
+## 🎯 Technical Interests
+
+- Full-stack application development
+- Backend architecture and REST API design
+- Database modeling and management
+- Authentication and authorization systems
+- Flutter mobile application development
+- AI integration and intelligent applications
+- Software architecture and clean code
+
+---
+
+## 💡 Development Philosophy
+
+I enjoy building complete applications rather than focusing on isolated components.
+
+My approach is to take an idea from initial design through frontend development, backend implementation, database integration, testing, and refinement.
+
+I believe in continuous learning, practical experience, and improving through real-world projects.
+
+---
 
 ## 📫 Connect With Me
 
-- Instagram: [@the.appwizard](https://instagram.com/the.appwizard)
+- **GitHub:** [ARK13-org](https://github.com/ARK13-org)
+- **Instagram:** [@the.appwizard](https://instagram.com/the.appwizard)
 
+---
+
+*Building, learning, and improving one project at a time.* 🚀
